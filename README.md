@@ -4,6 +4,7 @@
 
 
 </td><td>
+
 |Wed|Thu|Fri|Sat|Sun|Mon|Tue|
 |:-|:-|:-|:-|:-|:-|:-|
 |Thu|Fri|Sat|Sun|Mon|Tue|Wed|
@@ -13,8 +14,10 @@
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |Tue|Wed|Thu|Fri|Sat|Sun|Mon|
 
-
 </td></tr>
+
+<tr><td>
+
 |1|8|15|22|29|
 |:-:|:-:|:-:|:-:|:-:|
 |2|9|16|23|30|
@@ -23,8 +26,6 @@
 |5|12|19|26|  |
 |6|13|20|27|  |
 |7|14|21|28|  |
-
-<tr><td>
 
 </td><td>
 
