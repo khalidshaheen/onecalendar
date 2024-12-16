@@ -1,7 +1,7 @@
 <table>
 <tr><th></th><th></th></tr>
 <tr><td>
-Gregorian calendar 2025
+Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
 </td><td>
