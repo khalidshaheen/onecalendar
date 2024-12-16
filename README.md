@@ -5,7 +5,7 @@
 
 </td><td>
 
-|Jan|Aug|May|Feb|Jun|Sep|Apr|
+|Jan <br> يناير|Aug|May|Feb|Jun|Sep|Apr|
 |:-|:-|:-|:-|:-|:-|:-|
 |Oct|||Mar||Dec|Jul|
 ||||Nov||||
