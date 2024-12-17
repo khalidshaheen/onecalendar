@@ -4,6 +4,28 @@
 Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+
+
++---------+---------+---------+----------+
+| Header1 | header2 | header3 | header4  |
++---------+---------+---------+----------+
+| Bar     | bar     | bar     | bar      |
++---------+---------+---------+----------+
+
 </td><td>
 
 |&nbsp; &nbsp; &nbsp; Jan <br> يناير&nbsp; &nbsp;&nbsp;|May|Aug|Feb|Jun|Sep|Apr|
