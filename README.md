@@ -13,8 +13,8 @@ Hijri calendar 1446
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
-      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
+      <td width="50%"></td>
+      <td width="50%"></td>
     </tr>
   </tbody>
 </table>
