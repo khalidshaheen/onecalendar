@@ -4,27 +4,20 @@
 Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
-
-
-+---------+---------+---------+----------+
-| Header1 | header2 | header3 | header4  |
-+---------+---------+---------+----------+
-| Bar     | bar     | bar     | bar      |
-+---------+---------+---------+----------+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">First header</th>
+      <th width="50%">Second header long</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
+      <td width="50%"><img src="https://docs.github.com/assets/cb-194149/images/help/images/view.png"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </td><td>
 
