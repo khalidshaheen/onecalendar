@@ -1,9 +1,3 @@
-table.fixed {table-layout:fixed; width:90px;}/*Setting the table width is important!*/
-table.fixed td {overflow:hidden;}/*Hide text outside the cell.*/
-table.fixed td:nth-of-type(1) {width:20px;}/*Setting the width of column 1.*/
-table.fixed td:nth-of-type(2) {width:30px;}/*Setting the width of column 2.*/
-table.fixed td:nth-of-type(3) {width:40px;}/*Setting the width of column 3.*/
-
 <table class fixed>
 <tr><th></th><th></th></tr>
 <tr><td>
@@ -27,7 +21,7 @@ Hijri calendar 1446
 
 </td><td style='text-align:center; vertical-align:middle'>
 
-|Jan<br>يناير|May|Aug|Feb|Jun|Sep|Apr|
+|<div style="width:290px">Jan<br>يناير</div>|May|Aug|Feb|Jun|Sep|Apr|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Oct|   |   |Mar|   |Dec|Jul|
 |   |   |   |Nov|   |   |   |
