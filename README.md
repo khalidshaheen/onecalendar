@@ -4,7 +4,7 @@
 Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
-<table width="100%">
+<table>
   <thead>
     <tr>
       <th><div style="width:1290px">First header</div></th>
