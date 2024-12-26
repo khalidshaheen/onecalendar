@@ -21,7 +21,7 @@ Hijri calendar 1446
 
 </td><td style='text-align:center; vertical-align:middle'>
 
-|<div style="width:290px">Jan<br>يناير</div>|May|Aug|Feb|Jun|Sep|Apr|
+|<div style="width:1290px">Jan<br>يناير</div>|May|Aug|Feb|Jun|Sep|Apr|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Oct|   |   |Mar|   |Dec|Jul|
 |   |   |   |Nov|   |   |   |
