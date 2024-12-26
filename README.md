@@ -10,7 +10,6 @@ Hijri calendar 1446
 |Oct|   |   |Mar|   |Dec|Jul|
 |   |   |   |Nov|   |   |   |
 |   |   |   |   |   |   |   |
-
 : {tbl-colwidths="[20,80]"}
 
 </td></tr>
