@@ -7,7 +7,7 @@ Hijri calendar 1446
 <table>
   <thead>
     <tr>
-      <th><div style="width:1290px">First header</div></th>
+      <th><div style="width:1290 px">First header</div></th>
       <th>Second header long</th>
     </tr>
   </thead>
