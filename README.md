@@ -1,5 +1,5 @@
 <table>
-<tr><td>
+<tr><td align="center">
 Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
