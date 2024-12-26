@@ -4,15 +4,6 @@
 Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
-
-
-
-+---------+---------+---------+----------+
-| Header1 | header2 | header3 | header4  |
-+---------+---------+---------+----------+
-| Bar     | bar     | bar     | bar      |
-+---------+---------+---------+----------+
-
 </td><td style='text-align:center; vertical-align:middle'>
 
 |<div style="width:11290px">Jan<br>يناير</div>|May|Aug|Feb|Jun|Sep|Apr|
