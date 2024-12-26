@@ -13,8 +13,8 @@ Hijri calendar 1446
   </thead>
   <tbody>
     <tr>
-      <td width="50%"></td>
-      <td width="50%"></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
