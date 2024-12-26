@@ -1,4 +1,4 @@
-<table class fixed>
+<table>
 <tr><th></th><th></th></tr>
 <tr><td>
 Gregorian calendar 2025 <br>
@@ -7,7 +7,7 @@ Hijri calendar 1446
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%">First header</th>
+      <th width="50%"><div style="width:11290px">First header</div>div></th>
       <th width="50%">Second header long</th>
     </tr>
   </thead>
