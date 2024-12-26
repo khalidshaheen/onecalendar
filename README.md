@@ -26,7 +26,7 @@ Hijri calendar 1446
 
 </td><td>
 
-|Wed|Thu|Fri|Sat|Sun|Mon|Tue|
+|&nbsp;Wed|&nbsp;Thu|&nbsp;Fri|&nbsp;Sat|&nbsp;Sun|&nbsp;Mon|&nbsp;Tue|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Thu|Fri|Sat|Sun|Mon|Tue|Wed|
 |Fri|Sat|Sun|Mon|Tue|Wed|Thu|
