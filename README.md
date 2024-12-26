@@ -4,7 +4,15 @@ Gregorian calendar 2025 <br>
 Hijri calendar 1446
 
 </td><td>
-
+<colgroup>
+  <col style="width: 14.28%;">
+  <col style="width: 14.28%;">
+  <col style="width: 14.28%;">
+  <col style="width: 14.28%;">
+  <col style="width: 14.28%;">
+  <col style="width: 18.28%;">
+  <col style="width: 10.28%;">
+</colgroup>
 |&nbsp;Jan<br>يناير|&nbsp;May|&nbsp;Aug|&nbsp;Feb|&nbsp;Jun|&nbsp;Sep|&nbsp;Apr|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Oct|   |   |Mar|   |Dec|Jul|
