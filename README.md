@@ -11,6 +11,8 @@ Hijri calendar 1446
 |   |   |   |Nov|   |   |   |
 |   |   |   |   |   |   |   |
 
+: {tbl-colwidths="[20,80]"}
+
 </td></tr>
 
 <tr><td>
